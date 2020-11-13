@@ -15,10 +15,12 @@ Currently, it supports item statistics from two mainstream websites:
 
 ### probuilds.net
 
--!pb/probuilds {champion name}
+- !pb/probuilds {champion name}
 
 ## Usage
 
 Requirements: 
 - A discord account: with which you will need to create your own bot and get it's access token.
 - Node.js
+
+You can learn more [here](https://discordjs.guide/preparations/setting-up-a-bot-application.html)
