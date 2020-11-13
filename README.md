@@ -1,10 +1,10 @@
-# Mini League of Legends bot 
+# Mini League of Legends Discord bot 
 
 A lightweight discord bot that enables you to quickly search up the itemization routes for your champion in League of Legends. 
 
 Currently, it supports item statistics from two mainstream websites:
 - [op.gg](https://na.op.gg/)
-- [probuilds] (https://www.probuilds.net/)
+- [probuilds](https://www.probuilds.net/)
 
 ## Options:
 
